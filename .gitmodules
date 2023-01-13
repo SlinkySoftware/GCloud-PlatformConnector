@@ -1,0 +1,9 @@
+[submodule "GCloud-PlatformConnectorWebApp"]
+	path = GCloud-PlatformConnectorWebApp
+	url = https://github.com/SlinkySoftware/GCloud-PlatformConnectorWebApp.git
+[submodule "GCloud-PlatformConnectorPluginDemo"]
+	path = GCloud-PlatformConnectorPluginDemo
+	url = https://github.com/SlinkySoftware/GCloud-PlatformConnectorPluginDemo.git
+[submodule "GCloud-PlatformConnectorPluginInterface"]
+	path = GCloud-PlatformConnectorPluginInterface
+	url = https://github.com/SlinkySoftware/GCloud-PlatformConnectorPluginInterface.git
